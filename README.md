@@ -1,4 +1,4 @@
-# Symfony4 REST Api
+# WindowsRegistryTool
 Tool to automatically update multiple windows registry rules.
 
 ## Table of contents
